@@ -1,0 +1,454 @@
+[
+  {
+    "question": "Is\" Eystein Orre died in 1066 at a battle in the East Riding of Yorkshire. It is where King Harold defeated King Harald of Norway\" true or false? think step by step and logically and give an \"True\" or \"False\" answer at the end of the answer.",
+    "process": [
+      "Eystein Orre",
+      "Death of Eystein Orre",
+      "Battle in the East Riding of Yorkshire",
+      "Opposing sides"
+    ],
+    "judge": "False",
+    "database_supporting_facts": [
+      [
+        "Ancestry of the Godwins",
+        3
+      ],
+      [
+        "Battle of Stamford Bridge",
+        0
+      ],
+      [
+        "Eystein Orre",
+        0
+      ]
+    ],
+    "fit": 1
+  },
+  {
+    "question": "Is\" The singer of \"Feel the Passion\" won the major Albanian musical event K\u00ebnga Magjike. It was composed by Shp\u00ebtim Sara\u00e7i and with lyrics by Sokol Marsi\" true or false? think step by step and logically and give an \"True\" or \"False\" answer at the end of the answer.",
+    "process": [
+      "\"Feel the Passion\"",
+      "Major Albanian musical event K\u00ebnga Magjike",
+      "Singer of \"Feel the Passion\"",
+      "Composer of \"Feel the Passion\"",
+      "Lyricist of \"Feel the Passion\""
+    ],
+    "judge": "False",
+    "database_supporting_facts": [
+      [
+        "Aurela Ga\u00e7e",
+        1
+      ],
+      [
+        "K\u00ebnga Magjike",
+        0
+      ],
+      [
+        "Feel the Passion",
+        0
+      ]
+    ],
+    "fit": 2
+  },
+  {
+    "question": "Is\" The 1989 film whose soundtrack included the song \"Batdance\" was produced by Jon Peters and a man that is the CEO of Mandalay Entertainment\" true or false? think step by step and logically and give an \"True\" or \"False\" answer at the end of the answer.",
+    "process": [
+      "The 1989 film",
+      "Soundtrack included the song \"Batdance\"",
+      "Jon Peters",
+      "CEO of Mandalay Entertainment"
+    ],
+    "judge": "False",
+    "database_supporting_facts": [
+      [
+        "Batman (1989 film)",
+        0
+      ],
+      [
+        "Peter Guber",
+        1
+      ],
+      [
+        "Batdance",
+        1
+      ]
+    ],
+    "fit": 1
+  },
+  {
+    "question": "Is\" The Eastern Conference champion, team with the former assistant coach Morlon Wiley, were pitted against the Houston Rockets in the first NBA Finals in which this team played\" true or false? think step by step and logically and give an \"True\" or \"False\" answer at the end of the answer.",
+    "process": [
+      "Eastern Conference champion",
+      "Former assistant coach Morlon Wiley",
+      "Pitted against the Houston Rockets"
+    ],
+    "judge": "False",
+    "database_supporting_facts": [
+      [
+        "Orlando Magic",
+        0
+      ],
+      [
+        "Orlando Magic",
+        3
+      ],
+      [
+        "1995 NBA Finals",
+        0
+      ],
+      [
+        "1995 NBA Finals",
+        1
+      ],
+      [
+        "Morlon Wiley",
+        0
+      ]
+    ],
+    "fit": 1
+  },
+  {
+    "question": "Is\" The son of Margarete Robsahm produced the 2015 film starring Jesse Eisenberg, Gabriel Byrne, Isabelle Huppert, David Strathairn, and Amy Ryan\" true or false? think step by step and logically and give an \"True\" or \"False\" answer at the end of the answer.",
+    "process": [
+      "Margarete Robsahm",
+      "Son of Margarete Robsahm",
+      "2015 film",
+      "Cast of the film"
+    ],
+    "judge": "False",
+    "database_supporting_facts": [
+      [
+        "Thomas Robsahm",
+        0
+      ],
+      [
+        "Louder Than Bombs (film)",
+        1
+      ],
+      [
+        "Margarete Robsahm",
+        1
+      ]
+    ],
+    "fit": 1
+  },
+  {
+    "question": "Is\" Emily Kai Bock was nominated for Director of the Year at these awards. The co-hosts star in Keeping Up with the Kardashians\" true or false? think step by step and logically and give an \"True\" or \"False\" answer at the end of the answer.",
+    "process": [
+      "Emily Kai Bock",
+      "Nominated for Director of the Year",
+      "Co-hosts"
+    ],
+    "judge": "False",
+    "database_supporting_facts": [
+      [
+        "2014 Much Music Video Awards",
+        1
+      ],
+      [
+        "Kylie Jenner",
+        1
+      ],
+      [
+        "Emily Kai Bock",
+        2
+      ]
+    ],
+    "fit": 1
+  },
+  {
+    "question": "Is\" Queen Medb of Connacht made her invasion in a province in the island of Ireland. The Scots language is spoken in this area\" true or false? think step by step and logically and give an \"True\" or \"False\" answer at the end of the answer.",
+    "process": [
+      "Queen Medb of Connacht",
+      "Invasion in a province in the island of Ireland",
+      "The Scots language"
+    ],
+    "judge": "False",
+    "database_supporting_facts": [
+      [
+        "Louis le Brocquy T\u00e1in illustrations",
+        2
+      ],
+      [
+        "Ulster",
+        0
+      ],
+      [
+        "Scots language",
+        0
+      ]
+    ],
+    "fit": 1
+  },
+  {
+    "question": "Is\" David May founded the company that the shop, that was an anchor store for Simi Valley Town Center when it opened, is a subsidiary of\" true or false? think step by step and logically and give an \"True\" or \"False\" answer at the end of the answer.",
+    "process": [
+      "David May",
+      "Shop at Simi Valley Town Center"
+    ],
+    "judge": "False",
+    "database_supporting_facts": [
+      [
+        "Robinsons-May",
+        1
+      ],
+      [
+        "The May Department Stores Company",
+        1
+      ],
+      [
+        "Simi Valley Town Center",
+        1
+      ]
+    ],
+    "fit": 1
+  },
+  {
+    "question": "Is\" The Day After, a 1982 film that aired in 1983, was the seventh highest rated non-sports show and featured a Kansas state highway. The De Soto High School (Kansas) is located off this highway\" true or false? think step by step and logically and give an \"True\" or \"False\" answer at the end of the answer.",
+    "process": [
+      "The Day After",
+      "Seventh highest rated non-sports show",
+      "Kansas state highway",
+      "De Soto High School (Kansas)"
+    ],
+    "judge": "Indeterminable",
+    "database_supporting_facts": [
+      [
+        "K-10 (Kansas highway)",
+        0
+      ],
+      [
+        "K-10 (Kansas highway)",
+        4
+      ],
+      [
+        "The Day After",
+        0
+      ],
+      [
+        "The Day After",
+        2
+      ],
+      [
+        "De Soto High School (Kansas)",
+        1
+      ]
+    ],
+    "fit": 3
+  },
+  {
+    "question": "Is\" Princess Zein bint Hussein is the sister of Princess Zein and the daughter of a British woman\" true or false? think step by step and logically and give an \"True\" or \"False\" answer at the end of the answer.",
+    "process": [
+      "Princess Zein bint Hussein",
+      "Sister of Princess Zein",
+      "Daughter of a British woman"
+    ],
+    "judge": "Indeterminable",
+    "database_supporting_facts": [
+      [
+        "Princess Aisha bint Hussein",
+        0
+      ],
+      [
+        "Princess Muna al-Hussein",
+        2
+      ],
+      [
+        "Princess Zein bint Hussein",
+        0
+      ]
+    ],
+    "fit": 1
+  },
+  {
+    "question": "Is\" The  party John Dunbar (MP) was in campaigned for the Irish Home Rule Movement\" true or false? think step by step and logically and give an \"True\" or \"False\" answer at the end of the answer.",
+    "process": [
+      "John Dunbar (MP)",
+      "Irish Home Rule Movement",
+      "The party John Dunbar (MP) was in"
+    ],
+    "judge": "Indeterminable",
+    "database_supporting_facts": [
+      [
+        "Home Rule League",
+        0
+      ],
+      [
+        "Irish Home Rule movement",
+        0
+      ],
+      [
+        "John Dunbar (MP)",
+        0
+      ]
+    ],
+    "fit": 1
+  },
+  {
+    "question": "Is\" Mike Leigh's second collaboration with Louis Marks, after Home Sweet Home (1982 Film), starred the actor who was best known for the role of Captain Hans Geering on \"'Allo 'Allo!\" true or false? think step by step and logically and give an \"True\" or \"False\" answer at the end of the answer.",
+    "process": [
+      "Mike Leigh",
+      "Louis Marks",
+      "Second collaboration",
+      "Home Sweet Home (1982 Film)",
+      "Actor known for the role of Captain Hans Geering on \"'Allo 'Allo!\""
+    ],
+    "judge": "Indeterminable",
+    "database_supporting_facts": [
+      [
+        "Grown-Ups",
+        1
+      ],
+      [
+        "Sam Kelly",
+        1
+      ],
+      [
+        "Direct Hit Records",
+        1
+      ]
+    ],
+    "fit": 0
+  },
+  {
+    "question": "Is\" The singer who duets with Dave Hemingway on the song that pushed Choke (album) to number 2 in the charts is Northern Irish\" true or false? think step by step and logically and give an \"True\" or \"False\" answer at the end of the answer.",
+    "process": [
+      "Dave Hemingway",
+      "Choke (album)",
+      "Duet partner of Dave Hemingway"
+    ],
+    "judge": "Indeterminable",
+    "database_supporting_facts": [
+      [
+        "A Little Time",
+        1
+      ],
+      [
+        "Briana Corrigan",
+        0
+      ],
+      [
+        "Choke (album)",
+        1
+      ]
+    ],
+    "fit": 1
+  },
+  {
+    "question": "Is\" The band, whose second album is Stupid Stupid Stupid, and \"Balance and Composure\" are not from the same country\" true or false? think step by step and logically and give an \"True\" or \"False\" answer at the end of the answer.",
+    "process": [
+      "The band",
+      "Second album",
+      "\"Balance and Composure\""
+    ],
+    "judge": "Indeterminable",
+    "database_supporting_facts": [
+      [
+        "Black Grape",
+        0
+      ],
+      [
+        "Balance and Composure",
+        0
+      ],
+      [
+        "Stupid Stupid Stupid",
+        0
+      ]
+    ],
+    "fit": 1
+  },
+  {
+    "question": "Is\" English Mastiff is a different size than a breed that Canine Chiari-like malformation is widespread in\" true or false? think step by step and logically and give an \"True\" or \"False\" answer at the end of the answer.",
+    "process": [
+      "English Mastiff",
+      "Canine Chiari-like malformation"
+    ],
+    "judge": "Indeterminable",
+    "database_supporting_facts": [
+      [
+        "Griffon Bruxellois",
+        0
+      ],
+      [
+        "Griffon Bruxellois",
+        1
+      ],
+      [
+        "English Mastiff",
+        0
+      ],
+      [
+        "English Mastiff",
+        1
+      ],
+      [
+        "Canine Chiari-like malformation",
+        7
+      ]
+    ],
+    "fit": 3
+  },
+  {
+    "question": "Is\" The father of Sonika Kaliraman won a gold medal in 1970 in a continental multi-sport event held in Bangkok\" true or false? think step by step and logically and give an \"True\" or \"False\" answer at the end of the answer.",
+    "process": [
+      "Sonika Kaliraman",
+      "Father of Sonika Kaliraman",
+      "Gold medal in 1970",
+      "Continental multi-sport event held in Bangkok"
+    ],
+    "judge": "Indeterminable",
+    "database_supporting_facts": [
+      [
+        "Chandgi Ram",
+        1
+      ],
+      [
+        "1970 Asian Games",
+        0
+      ],
+      [
+        "Sonika Kaliraman",
+        1
+      ]
+    ],
+    "fit": 1
+  },
+  {
+    "question": "Is\" Eric Patrick Clapton has been ranked on more lists than another singer. The other singer composed the song that is similar to Little Queen (song)\" true or false? think step by step and logically and give an \"True\" or \"False\" answer at the end of the answer.",
+    "process": [
+      "Eric Patrick Clapton",
+      "Ranked on more lists",
+      "Another singer",
+      "Composed the song similar to Little Queen (song)"
+    ],
+    "judge": "Indeterminable",
+    "database_supporting_facts": [
+      [
+        "Eric Clapton",
+        0
+      ],
+      [
+        "Eric Clapton",
+        3
+      ],
+      [
+        "Eric Clapton",
+        4
+      ],
+      [
+        "Ann Wilson",
+        1
+      ],
+      [
+        "Magic Man",
+        2
+      ],
+      [
+        "Little Queen (song)",
+        2
+      ]
+    ],
+    "fit": 1
+  }
+]

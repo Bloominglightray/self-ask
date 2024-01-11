@@ -1,0 +1,390 @@
+
+Is" The Day After, a 1982 film that aired in 1983, was the seventh highest rated non-sports show and featured a Kansas state highway. The De Soto High School (Kansas) is located off this highway" true or false? answer in "True" or "False".
+Are follow up questions needed here:No.
+False
+
+Is" Eystein Orre died in 1066 at a battle in the East Riding of Yorkshire. It is where King Harold defeated King Harald of Norway" true or false? answer in "True" or "False".
+Are follow up questions needed here:No.
+False
+
+Is" Princess Zein bint Hussein is the sister of Princess Zein and the daughter of a British woman" true or false? answer in "True" or "False".
+Are follow up questions needed here:Yes.
+Follow up: Who is Princess Zein bint Hussein?
+
+Intermediate answer: Princess Zein bint Hussein, also known as Princess Zein of Jordan, is a member of the Jordanian royal family. She was born on November 25, 1948, in Amman, Jordan. She is the daughter of King Hussein of Jordan and his second wife, Princess Muna al-Hussein. Princess Zein is the sister of King Abdullah II of Jordan and the aunt of Crown Prince Hussein bin Abdullah. She is known for her philanthropic work and involvement in various charitable organizations in Jordan.
+Follow up: Who is Princess Zein?
+
+Intermediate answer: Princess Zein is a title given to female members of the Jordanian royal family. It is not specific to one individual, as there have been multiple princesses with this title throughout Jordan's history.
+Follow up: Who is the mother of Princess Zein bint Hussein?
+
+Intermediate answer: The mother of Princess Zein bint Hussein is Queen Noor of Jordan.
+So the final answer is: False
+False
+
+Is" The singer of "Feel the Passion" won the major Albanian musical event Kënga Magjike. It was composed by Shpëtim Saraçi and with lyrics by Sokol Marsi" true or false? answer in "True" or "False".
+Are follow up questions needed here:No.
+False
+
+Is" The 1989 film whose soundtrack included the song "Batdance" was produced by Jon Peters and a man that is the CEO of Mandalay Entertainment" true or false? answer in "True" or "False".
+Are follow up questions needed here:Yes.
+Follow up: What is the name of the 1989 film?
+
+Intermediate answer: There are several films released in 1989. Could you please provide more information or specify the genre or any actors in the film you are referring to?
+Follow up: Who is the CEO of Mandalay Entertainment?
+
+Intermediate answer: The CEO of Mandalay Entertainment is Peter Guber.
+Follow up: Who produced the film "Batdance" was featured in?
+
+Intermediate answer: The film "Batdance" was featured in the 1989 movie "Batman," which was produced by Jon Peters and Peter Guber.
+So the final answer is: True
+True
+
+Is" The Eastern Conference champion, team with the former assistant coach Morlon Wiley, were pitted against the Houston Rockets in the first NBA Finals in which this team played" true or false? answer in "True" or "False".
+Are follow up questions needed here:Yes.
+Follow up: Who was the Eastern Conference champion team?
+
+Intermediate answer: The Eastern Conference champion team for which sport or year are you referring to?
+Follow up: Which year are you referring to?
+
+Intermediate answer: I apologize, but I am an AI language model and do not have the ability to refer to a specific year unless it is provided in the context of the conversation. Could you please provide more information or specify the year you are referring to?
+Follow up: In which sport did the Eastern Conference champion team compete?
+
+Intermediate answer: The Eastern Conference champion team competes in various sports, including basketball (NBA), ice hockey (NHL), and soccer (MLS).
+Follow up: In which year did the Eastern Conference champion team compete against the Houston Rockets in the NBA Finals?
+
+Intermediate answer: The Eastern Conference champion team competed against the Houston Rockets in the NBA Finals in the year 1994.
+So the final answer is: True
+True
+
+Is" An American comedian who starred in the original cast of Saturday Night Live" and played Stan Winters in the sitcom Martin also starred on The Jamie Foxx Show" true or false? answer in "True" or "False".
+Are follow up questions needed here:No.
+False
+
+Is" The British racing driver who won the 1992 Formula One Indoor Trophy, has raced for 7 different teams and won the European Grand Prix in 1999" true or false? answer in "True" or "False".
+Are follow up questions needed here:Yes.
+Follow up: Who is the British racing driver?
+
+Intermediate answer: There are several British racing drivers, but one notable example is Lewis Hamilton. He is a seven-time Formula One World Champion and has achieved numerous records in the sport.
+Follow up: Did Lewis Hamilton win the 1992 Formula One Indoor Trophy?
+
+Intermediate answer: No, Lewis Hamilton did not win the 1992 Formula One Indoor Trophy. Hamilton made his Formula One debut in 2007, so he was not competing in the sport in 1992.
+So the final answer is: False
+False
+
+Is" The location of the Buddhist Gaomin Temple, and Jiangyan District, are not considered coastal cities" true or false? answer in "True" or "False".
+Are follow up questions needed here:No.
+False
+
+Is" A product similar to Treet is canned cooked meat by Hormel Foods Corporation and is used to make a popular snack and lunch food in Hawaii" true or false? answer in "True" or "False".
+Are follow up questions needed here:No.
+False
+
+Is" The series Debra Jo Rupp voiced "Mary Helperman" in was both a movie and a television series" true or false? answer in "True" or "False".
+Are follow up questions needed here:Yes.
+Follow up: Who is Debra Jo Rupp?
+
+Intermediate answer: Debra Jo Rupp is an American actress. She is best known for her role as Kitty Forman on the television sitcom "That '70s Show," which aired from 1998 to 2006. Rupp has also appeared in various other television shows and films throughout her career.
+Follow up: What series did Debra Jo Rupp voice "Mary Helperman" in?
+
+Intermediate answer: Debra Jo Rupp voiced the character "Mary Helperman" in the animated series "Teacher's Pet."
+Follow up: Was "Teacher's Pet" both a movie and a television series?
+
+Intermediate answer: Yes, "Teacher's Pet" was both a movie and a television series. The animated film "Teacher's Pet" was released in 2004, and it was later adapted into a television series of the same name, which aired from 2000 to 2002.
+So the final answer is: True
+True
+
+Is" A 1946 American musical comedy film starred an American film actress who was also a dancer. The screenplay of this film was written by Irving Brecher" true or false? answer in "True" or "False".
+Are follow up questions needed here:No.
+False
+
+Is" The son of Margarete Robsahm produced the 2015 film starring Jesse Eisenberg, Gabriel Byrne, Isabelle Huppert, David Strathairn, and Amy Ryan" true or false? answer in "True" or "False".
+Are follow up questions needed here:Yes.
+Follow up: Who is the son of Margarete Robsahm?
+
+Intermediate answer: There is no publicly available information about Margarete Robsahm having a son.
+So the final answer is: False
+False
+
+Is" Patrick Dempsey played the male lead in a teen comedy about a high school nerd directed by the man who also directed Bring It On: All or Nothing" true or false? answer in "True" or "False".
+Are follow up questions needed here:Yes.
+Follow up: Who is the male lead in the teen comedy?
+
+Intermediate answer: The male lead in the teen comedy can vary depending on the specific movie or show you are referring to. Some popular male leads in teen comedies include actors like Zac Efron, Jonah Hill, Michael Cera, and John Cusack, among others.
+Follow up: Who directed Bring It On: All or Nothing?
+
+Intermediate answer: "All or Nothing" is a phrase that refers to a situation where there are only two possible outcomes, with no middle ground or compromise. It suggests that one must either fully commit and give their all to achieve a goal, or they will fail completely. It can be applied to various aspects of life, such as relationships, career choices, or personal goals.
+Follow up: Who is Patrick Dempsey?
+
+Intermediate answer: Patrick Dempsey is an American actor and race car driver. He is best known for his role as Dr. Derek Shepherd, also known as "McDreamy," on the television series Grey's Anatomy. Dempsey has also appeared in films such as Enchanted, Sweet Home Alabama, and Made of Honor. In addition to his acting career, he has competed in various professional racing events, including the 24 Hours of Le Mans.
+Follow up: Can you provide more specific information about the teen comedy and its director?
+
+Intermediate answer: Certainly! The teen comedy genre typically revolves around the lives and experiences of teenagers, often exploring themes such as friendship, romance, high school, and coming-of-age. These films are known for their light-hearted and humorous tone, appealing to a younger audience.
+
+As for the director of a teen comedy, there are many notable filmmakers who have contributed to the genre. Some well-known directors include John Hughes, who directed iconic teen comedies like "The Breakfast Club" and "Ferris Bueller's Day Off." Hughes is often credited with defining the genre in the 1980s.
+
+Another prominent director in the teen comedy genre is Amy Heckerling, known for films like "Fast Times at Ridgemont High" and "Clueless." Heckerling's films often focus on the lives of high school students and have become cult classics.
+
+More recent directors in the genre include Greg Mottola, who directed "Superbad," and Olivia Wilde, who directed "Booksmart." These directors have brought a fresh perspective to the genre, incorporating modern themes and humor.
+
+Overall, the teen comedy genre has seen a variety of directors who have contributed to its popularity and evolution over the years.
+So the final answer is: False
+False
+
+Is" Emily Kai Bock was nominated for Director of the Year at these awards. The co-hosts star in Keeping Up with the Kardashians" true or false? answer in "True" or "False".
+Are follow up questions needed here:No.
+False
+
+Is" Dave Brockie was born before the lead singer of Falling in Reverse in the Bury the Hatchet Tour" true or false? answer in "True" or "False".
+Are follow up questions needed here:No.
+N/A
+
+Is" The  party John Dunbar (MP) was in campaigned for the Irish Home Rule Movement" true or false? answer in "True" or "False".
+Are follow up questions needed here:Yes.
+Follow up: Who is John Dunbar (MP)?
+
+Intermediate answer: I'm sorry, but I couldn't find any specific information about a person named John Dunbar who is an MP. It's possible that there may be multiple individuals with that name, or the information you're looking for might not be widely available. Could you please provide more context or clarify your question?
+Follow up: What is the Irish Home Rule Movement?
+
+Intermediate answer: The Irish Home Rule Movement was a political campaign in the late 19th and early 20th centuries that aimed to secure self-government for Ireland within the British Empire. It sought to establish a devolved Irish parliament, known as the Irish Parliament or Irish Legislative Assembly, which would have the power to make laws and govern Ireland's internal affairs. The movement gained momentum in the late 19th century due to growing Irish nationalism and demands for greater autonomy from British rule.
+
+The Home Rule Movement was led by various political organizations and figures, including the Irish Parliamentary Party (IPP) led by Charles Stewart Parnell. The IPP, through its leader Parnell, successfully secured the support of the British Liberal Party, which promised to introduce a Home Rule Bill in Parliament. However, the movement faced significant opposition from unionists in Ireland, particularly in the northern province of Ulster, who feared that Home Rule would lead to the domination of the Catholic majority and the erosion of their British identity.
+
+The Home Rule Bill was introduced in Parliament multiple times but faced numerous obstacles, including opposition from the House of Lords and the outbreak of World War I. Despite these challenges, the movement played a crucial role in shaping Irish politics and ultimately led to the establishment of the Irish Free State in 192
+Follow up: Did John Dunbar (MP) campaign for the Irish Home Rule Movement?
+
+Intermediate answer: I'm sorry, but I couldn't find any specific information about a John Dunbar who campaigned for the Irish Home Rule Movement. It's possible that there may have been individuals with that name involved in the movement, but without more context or details, it's difficult to provide a definitive answer.
+So the final answer is: False
+False
+
+Is" Queen Medb of Connacht made her invasion in a province in the island of Ireland. The Scots language is spoken in this area" true or false? answer in "True" or "False".
+Are follow up questions needed here:No.
+False
+
+Is" David May founded the company that the shop, that was an anchor store for Simi Valley Town Center when it opened, is a subsidiary of" true or false? answer in "True" or "False".
+Are follow up questions needed here:Yes.
+Follow up: Who founded the company that the shop is a subsidiary of?
+
+Intermediate answer: To answer your question, I would need the specific name of the shop or company you are referring to. Please provide more details so I can assist you accurately.
+Follow up: What is the name of the shop that is a subsidiary of David May's company?
+
+Intermediate answer: I'm sorry, but I couldn't find any specific information about a shop that is a subsidiary of David May's company. It's possible that there may not be a well-known shop directly associated with David May's company, or there may be multiple shops associated with it.
+So the final answer is: False
+False
+
+Is" Mike Leigh's second collaboration with Louis Marks, after Home Sweet Home (1982 Film), starred the actor who was best known for the role of Captain Hans Geering on "'Allo 'Allo!" true or false? answer in "True" or "False".
+Are follow up questions needed here:Yes.
+Follow up: Who is Mike Leigh?
+
+Intermediate answer: Mike Leigh is a British film and theater director, screenwriter, and playwright. He was born on February 20, 1943, in Salford, Lancashire, England. Leigh is known for his distinctive style of filmmaking, which involves extensive improvisation and collaboration with actors to develop characters and storylines. He has directed numerous critically acclaimed films, including "Secrets & Lies" (1996), "Vera Drake" (2004), and "Mr. Turner" (2014). Leigh has received numerous awards and accolades throughout his career, including multiple BAFTA Awards and the Palme d'Or at the Cannes Film Festival.
+Follow up: Who is Louis Marks?
+
+Intermediate answer: Louis Marks is a British television producer and screenwriter. He is best known for his work on the long-running science fiction series Doctor Who, for which he wrote several episodes in the 1960s and 1970s. He also produced other popular television shows such as Z-Cars and The Onedin Line.
+Follow up: Who is the actor best known for the role of Captain Hans Geering on "'Allo 'Allo!"?
+
+Intermediate answer: The actor best known for the role of Captain Hans Geering on "'Allo 'Allo!" is Sam Kelly.
+Follow up: What is the name of Mike Leigh's second collaboration with Louis Marks?
+
+Intermediate answer: The name of Mike Leigh's second collaboration with Louis Marks is "Grown-Ups."
+So the final answer is: False
+False
+
+Is" Brown University is old. It is older than the school for which WBOR (91.1 FM) is a licensed radio station" true or false? answer in "True" or "False".
+Are follow up questions needed here:No.
+False
+
+Is" The song that the actor who plays Uncle Remis sings in this film is Zip-a-Dee-Doo-Dah. Br'er Rabbit is one of the stars of this film" true or false? answer in "True" or "False".
+Are follow up questions needed here:Yes.
+Follow up: Who is the actor who plays Uncle Remis?
+
+Intermediate answer: The character Uncle Remis does not exist in any well-known movies or TV shows. It is possible that you may be referring to Uncle Remus, a character from the 1946 Disney film "Song of the South." The actor who played Uncle Remus is James Baskett.
+Follow up: What is the name of the film that James Baskett played Uncle Remus in?
+
+Intermediate answer: The film in which James Baskett played Uncle Remus is called "Song of the South" (1946).
+So the final answer is: True
+True
+
+Is" The singer who duets with Dave Hemingway on the song that pushed Choke (album) to number 2 in the charts is Northern Irish" true or false? answer in "True" or "False".
+Are follow up questions needed here:Yes.
+Follow up: Who is the singer who duets with Dave Hemingway?
+
+Intermediate answer: The singer who duets with Dave Hemingway is Paul Heaton. They have collaborated on various songs as part of the British band The Beautiful South.
+Follow up: Where is Paul Heaton from?
+
+Intermediate answer: Paul Heaton is from Bromborough, Merseyside, England.
+So the final answer is: False
+False
+
+Is" The band, whose second album is Stupid Stupid Stupid, and "Balance and Composure" are not from the same country" true or false? answer in "True" or "False".
+Are follow up questions needed here:Yes.
+Follow up: Who is the band that released the album "Stupid Stupid Stupid"?
+
+Intermediate answer: The band that released the album "Stupid Stupid Stupid" is Black Grape.
+Follow up: Where is Black Grape from?
+
+Intermediate answer: Black Grape is a British alternative rock band formed in Manchester, England.
+Follow up: Where is "Balance and Composure" from?
+
+Intermediate answer: Balance and Composure is an American alternative rock band from Doylestown, Pennsylvania.
+So the final answer is: False
+False
+
+Is" English Mastiff is a different size than a breed that Canine Chiari-like malformation is widespread in" true or false? answer in "True" or "False".
+Are follow up questions needed here:No.
+False
+
+Is" The record producer that produced the bluegrass album was born in 1944. This album inspired the musical Bright Star" true or false? answer in "True" or "False".
+Are follow up questions needed here:Yes.
+Follow up: Who is the record producer that produced the bluegrass album?
+
+Intermediate answer: I'm sorry, but without specific information about the bluegrass album you are referring to, I cannot provide the name of the record producer. Could you please provide more details or the name of the album?
+Follow up: What is the name of the bluegrass album that inspired the musical Bright Star?
+
+Intermediate answer: The bluegrass album that inspired the musical "Bright Star" is called "Love Has Come for You." It is a collaboration between musician Steve Martin and singer-songwriter Edie Brickell.
+Follow up: When was the record producer born?
+
+Intermediate answer: To answer your question, I would need the name of the specific record producer you are referring to.
+Follow up: Who produced the musical Bright Star?
+
+Intermediate answer: The musical Bright Star was produced by Steve Martin and Edie Brickell.
+So the final answer is: False
+False
+
+Is" The home of the 2017 Canadian Grand Prix is also the venue for the Canadian Grand Prix. It is home to the first formula one race won by a black driver" true or false? answer in "True" or "False".
+Are follow up questions needed here:Yes.
+Follow up: Where was the 2017 Canadian Grand Prix held?
+
+Intermediate answer: The 2017 Canadian Grand Prix was held at the Circuit Gilles Villeneuve in Montreal, Quebec, Canada.
+Follow up: Who was the first black driver to win a Formula One race?
+
+Intermediate answer: The first black driver to win a Formula One race was Lewis Hamilton. He achieved this milestone on June 10, 2007, at the Canadian Grand Prix.
+So the final answer is: True
+True
+
+Is" "Black Maverick" is a biography of the founder of the Regional Council of Negro Leadership, a civil rights leader, fraternal organization leader, entrepreneur and surgeon" true or false? answer in "True" or "False".
+Are follow up questions needed here:No.
+False
+
+Is" The father of Sonika Kaliraman won a gold medal in 1970 in a continental multi-sport event held in Bangkok" true or false? answer in "True" or "False".
+Are follow up questions needed here:Yes.
+Follow up: Who is Sonika Kaliraman?
+
+Intermediate answer: Sonika Kaliraman is a former Indian wrestler and a reality TV personality. She was born on November 19, 1980, in Haryana, India. Sonika comes from a family of wrestlers, with her father being a renowned wrestler himself. She has represented India in various international wrestling competitions and has won several medals. Sonika gained further popularity when she participated in the reality TV show "Bigg Boss" in 2010. She is also known for her social work and advocacy for women's empowerment.
+Follow up: Who is the father of Sonika Kaliraman?
+
+Intermediate answer: The father of Sonika Kaliraman is Chandgi Ram.
+Follow up: Did Chandgi Ram win a gold medal in 1970 in a continental multi-sport event held in Bangkok?
+
+Intermediate answer: Yes, Chandgi Ram won a gold medal in the 1970 Asian Games held in Bangkok. He won the gold medal in wrestling in the Men's Freestyle 100 kg category.
+So the final answer is: True
+True
+
+Is" Eric Patrick Clapton has been ranked on more lists than another singer. The other singer composed the song that is similar to Little Queen (song)" true or false? answer in "True" or "False".
+Are follow up questions needed here:Yes.
+Follow up: Who is the other singer?
+
+Intermediate answer: I'm sorry, but I need more context to answer your question. Could you please provide more information or specify which singers you are referring to?
+Follow up: Which song is similar to Little Queen (song)?
+
+Intermediate answer: Some songs that are similar to "Little Queen" by Heart include:
+
+1. "Barracuda" by Heart
+2. "Magic Man" by Heart
+3. "Crazy on You" by Heart
+4. "Dreamboat Annie" by Heart
+5. "Alone" by Heart
+6. "What About Love" by Heart
+7. "These Dreams" by Heart
+8. "Never" by Heart
+9. "Straight On" by Heart
+10. "Dog & Butterfly" by Heart
+
+These songs share similar musical styles, vocal harmonies, and rock elements with "Little Queen" by Heart.
+So the final answer is: False
+False
+
+Is" The American author of Season Ticket: A Baseball Companion is considered to be a more well known author than this novelist.. The same novelist wrote the story The Mysterious Mr. Wong is based on" true or false? answer in "True" or "False".
+Are follow up questions needed here:Yes.
+Follow up: Who is the American author of Season Ticket: A Baseball Companion?
+
+Intermediate answer: A Baseball Companion can refer to a few different things. It could be a book or guide that provides information, statistics, and stories about baseball. It could also be a person who enjoys watching or playing baseball and is knowledgeable about the sport. Additionally, it could be a mobile app or website that offers live scores, news, and updates on baseball games and teams.
+Follow up: Who is the novelist who wrote the story The Mysterious Mr. Wong is based on?
+
+Intermediate answer: The story "The Mysterious Mr. Wong" is based on the character created by Hugh Wiley. However, it is important to note that Hugh Wiley was not a novelist but a screenwriter. The character of Mr. Wong appeared in a series of films in the 1930s and 1940s.
+Follow up: Who is the novelist that is considered to be less well known than the American author of Season Ticket: A Baseball Companion?
+
+Intermediate answer: A Baseball Companion can refer to a few different things. It could be a book or guide that provides information, statistics, and stories about baseball. It could also be a person who enjoys watching or playing baseball and is knowledgeable about the sport. Additionally, it could be a mobile app or website that offers live scores, news, and updates on baseball games and teams.
+Intermediate answer: Without specific information about the American author of Season Ticket: A Baseball Companion and the novelist who wrote the story The Mysterious Mr. Wong is based on, it is not possible to determine if the American author is considered more well-known than the novelist. Therefore, the final answer is: Cannot be determined.
+False
+
+Is" The writer of Willow and Wind produced films. The director of Executive Decision also produced films" true or false? answer in "True" or "False".
+Are follow up questions needed here:Yes.
+Follow up: Who is the writer of Willow and Wind?
+
+Intermediate answer: The writer of the film "Willow and Wind" is Mohammad-Ali Talebi.
+Follow up: Did the director of Executive Decision also produce films?
+
+Intermediate answer: Yes, the director of "Executive Decision," Stuart Baird, has also produced films. Some of the films he has produced include "Lethal Weapon" (1987), "Lethal Weapon 2" (1989), and "Die Hard 2" (1990).
+So the final answer is: True
+True
+
+Is" James Hewitt and another solicitor have in common the English country of origin. The other English solicitor was a chair of a human rights group. This group was a member of the  International Corporate Accountability Roundtable Steering Committee" true or false? answer in "True" or "False".
+Are follow up questions needed here:Yes.
+Follow up: Who is James Hewitt?
+
+Intermediate answer: James Hewitt is a former British Army officer and cavalry officer. He gained public attention in the 1990s when it was revealed that he had an affair with Diana, Princess of Wales, during her marriage to Prince Charles. Hewitt has since retired from the military and pursued various business ventures.
+Follow up: Who is the other English solicitor?
+
+Intermediate answer: I'm sorry, but I need more context to provide an accurate answer. Could you please provide more information or clarify your question?
+Follow up: Who was the chair of the human rights group?
+
+Intermediate answer: I'm sorry, but I cannot provide real-time information as my responses are generated based on pre-existing data. Therefore, I do not have information on the current chair of any human rights group. The chairperson of a human rights group can vary depending on the specific organization and its leadership structure. It would be best to refer to the official website or contact the specific human rights group in question for the most up-to-date information.
+So the final answer is: False
+False
+
+Is" The Managing Director of the Rajdoot Excel T  is the son of the insurance advisor in life insurance. It was made in India and has three gears" true or false? answer in "True" or "False".
+Are follow up questions needed here:No.
+False
+
+Is" A heavy metal band Ugly Kid Joe released an album in 1991 with the song Everything About You. The album is a parody of 2 Live Crew's 1989 album. Chris Catalyst played with the band" true or false? answer in "True" or "False".
+Are follow up questions needed here:No.
+False
+
+Is" The award-winning CD, that Jacqueline Horner-Kwiatek was a featured soloist on, includes the theme for the game "Civilization IV," written by the man who released The Drop That Contained the Sea which is a classical crossover album. This album was released in 2014" true or false? answer in "True" or "False".
+Are follow up questions needed here:No.
+False
+
+Is" The singer who duets with the replacement of Hugh Whitaker is Norther Irish. That song by the duo pushed Choke (album) to number 2 in the charts" true or false? answer in "True" or "False".
+Are follow up questions needed here:Yes.
+Follow up: Who is the replacement of Hugh Whitaker?
+
+Intermediate answer: I'm sorry, but I couldn't find any information about a person named Hugh Whitaker and his replacement. It's possible that he may not be a public figure or his replacement may not be widely known. Could you please provide more context or details about Hugh Whitaker and the specific field or organization he is associated with?
+Follow up: Who is the singer who duets with the replacement of Hugh Whitaker?
+
+Intermediate answer: I'm sorry, but I couldn't find any information about a singer who duets with the replacement of Hugh Whitaker. It's possible that the information you're looking for is not widely known or available.
+So the final answer is: False
+False
+
+Is" The suburb of Lousiville is the headquarters of the business founded by John H Schnatter. It is a rule-class city of 26,595 and it contains the neighborhood Plainview" true or false? answer in "True" or "False".
+Are follow up questions needed here:No.
+False
+
+Is" The author of The Russia House and In the Winter Dark (film) are both novelists. The film was released by Goalpost Pictures on 10 September 1998" true or false? answer in "True" or "False".
+Are follow up questions needed here:No.
+False
+
+Is" The institute that Alva Kelley Brown University served as the head football coach from 1951–1958 is old. That institute is older than the school for which WBOR (91.1 FM) is a licensed radio station" true or false? answer in "True" or "False".
+Are follow up questions needed here:No.
+False
+
+Is" Nicole Provis's had a partner in the 1992 Dow Classic – Doubles. Her partner has won more of a type of major tournament doubles titles than Vasek Pospisil. The ATP tour included these major tournaments" true or false? answer in "True" or "False".
+Are follow up questions needed here:Yes.
+Follow up: Who was Nicole Provis's partner in the 1992 Dow Classic - Doubles?
+
+Intermediate answer: I'm sorry, but I couldn't find any information about Nicole Provis's partner in the 1992 Dow Classic - Doubles. It's possible that the information is not readily available or that the event might not have taken place.
+Follow up: Who is Vasek Pospisil?
+
+Intermediate answer: Vasek Pospisil is a professional tennis player from Canada. He was born on June 23, 1990, in Vernon, British Columbia. Pospisil turned professional in 2007 and has since achieved success in both singles and doubles competitions. He has won several ATP titles in doubles and reached a career-high ranking of No. 25 in doubles in 2014. In singles, his highest ranking was No. 25 in 2014 as well. Pospisil has represented Canada in various international tennis events, including the Davis Cup and the Olympics.
+Follow up: What type of major tournament doubles titles has Nicole Provis's partner won more of than Vasek Pospisil?
+
+Intermediate answer: To answer this question, we need to compare the number of major tournament doubles titles won by Nicole Provis's partner and Vasek Pospisil. Unfortunately, the information provided does not specify the names of their partners or the number of titles won by each. Therefore, it is not possible to determine which type of major tournament doubles titles Nicole Provis's partner has won more of than Vasek Pospisil.
+So the final answer is: False

@@ -1,0 +1,13 @@
+Indeterminable
+True
+True
+True
+True
+True
+Indeterminable
+Indeterminable
+False
+True
+True:6
+False:1
+Indeterminable:3
